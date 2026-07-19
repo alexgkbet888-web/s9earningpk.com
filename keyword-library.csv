@@ -1,81 +1,81 @@
-id,keyword,intent,priority,page_type,target_page,last_modified,source
-1,s9 withdrawal Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
-2,s9 wallet Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
-3,s9 easypaisa withdrawal pending,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-4,s9 withdrawal proof screenshot,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-5,s9 jazzcash deposit,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
-7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
-8,S9 Wallet Desk support,brand,P2,support,/support/,2026-06-28,sop-full-audit
-9,S9 Wallet Desk FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
-10,s9 easypaisa Pakistan,category,P1,hub/category,/easypaisa/,2026-06-28,sop-full-audit
-11,s9 jazzcash Pakistan,category,P1,hub/category,/jazzcash/,2026-06-28,sop-full-audit
-12,s9 payment pending Pakistan,category,P1,hub/category,/payment-pending/,2026-06-28,sop-full-audit
-13,why s9 withdrawal is pending,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-14,how to check s9 wallet balance safely,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-15,what to do if easypaisa withdrawal delayed,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-16,does s9 support jazzcash in Pakistan,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-17,how to prepare withdrawal support screenshot,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-18,s9 easypaisa vs jazzcash,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-19,s9 wallet issue vs login issue,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-20,s9 withdrawal page vs support page,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-21,s9 withdrawal Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-22,s9 withdrawal Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-23,s9 withdrawal Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-24,s9 withdrawal Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-25,s9 withdrawal Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-26,s9 withdrawal Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-27,s9 withdrawal Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-28,s9 withdrawal Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-29,s9 withdrawal Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-30,s9 withdrawal Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-31,s9 withdrawal Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-32,s9 withdrawal Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-33,s9 wallet Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-34,s9 wallet Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-35,s9 wallet Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-36,s9 wallet Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-37,s9 wallet Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-38,s9 wallet Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-39,s9 wallet Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-40,s9 wallet Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-41,s9 wallet Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-42,s9 wallet Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-43,s9 wallet Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-44,s9 wallet Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-45,s9 easypaisa withdrawal pending Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-46,s9 easypaisa withdrawal pending PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-47,s9 easypaisa withdrawal pending Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-48,s9 easypaisa withdrawal pending mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-49,s9 easypaisa withdrawal pending H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-50,s9 easypaisa withdrawal pending 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-51,s9 easypaisa withdrawal pending guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-52,s9 easypaisa withdrawal pending checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-53,s9 easypaisa withdrawal pending fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-54,s9 easypaisa withdrawal pending not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-55,s9 easypaisa withdrawal pending latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-56,s9 easypaisa withdrawal pending support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-57,s9 withdrawal proof screenshot Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-58,s9 withdrawal proof screenshot PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-59,s9 withdrawal proof screenshot Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-60,s9 withdrawal proof screenshot mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-61,s9 withdrawal proof screenshot H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-62,s9 withdrawal proof screenshot 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-63,s9 withdrawal proof screenshot guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-64,s9 withdrawal proof screenshot checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-65,s9 withdrawal proof screenshot fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-66,s9 withdrawal proof screenshot not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-67,s9 withdrawal proof screenshot latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-68,s9 withdrawal proof screenshot support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-69,s9 jazzcash deposit Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-70,s9 jazzcash deposit PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-71,s9 jazzcash deposit Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-72,s9 jazzcash deposit mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-73,s9 jazzcash deposit H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-74,s9 jazzcash deposit 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-75,s9 jazzcash deposit guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-76,s9 jazzcash deposit checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-77,s9 jazzcash deposit fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-78,s9 jazzcash deposit not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-79,s9 jazzcash deposit latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-80,s9 jazzcash deposit support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+"id","keyword","intent","priority","page_type","target_page","last_modified","source"
+"1","s9 withdrawal Pakistan","core","P1","homepage/pillar","/","2026-06-28","sop-full-audit"
+"2","s9 wallet Pakistan","core","P1","homepage/pillar","/","2026-06-28","sop-full-audit"
+"3","s9 easypaisa withdrawal pending","long-tail","P1","supporting article","/blog/s9-easypaisa-withdrawal-pending-2026-06-26/","2026-07-19","professional-keyword-framework-audit"
+"4","s9 withdrawal proof screenshot","long-tail","P1","supporting article","/blog/s9-withdrawal-proof-screenshot-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"5","s9 jazzcash deposit","long-tail","P1","supporting article","/blog/s9-jazzcash-deposit-not-received-2026-07-02/","2026-07-19","professional-keyword-framework-audit"
+"6","s9 Pakistan","brand","P1","homepage","/","2026-06-28","sop-full-audit"
+"7","s9 game Pakistan","brand","P1","homepage","/","2026-06-28","sop-full-audit"
+"8","S9 Wallet Desk support","brand","P2","support","/support/","2026-06-28","sop-full-audit"
+"9","S9 Wallet Desk FAQ","brand","P2","faq","/faq/","2026-06-28","sop-full-audit"
+"10","s9 easypaisa Pakistan","category","P1","hub/category","/blog/easypaisa-deposit-flow/","2026-07-19","professional-keyword-framework-audit"
+"11","s9 jazzcash Pakistan","category","P1","hub/category","/blog/easypaisa-vs-jazzcash-withdrawal/","2026-07-19","professional-keyword-framework-audit"
+"12","s9 payment pending Pakistan","category","P1","hub/category","/blog/payment-pending-checklist/","2026-07-19","professional-keyword-framework-audit"
+"13","why s9 withdrawal is pending","question","P1","faq/article","/blog/s9-easypaisa-withdrawal-pending-2026-06-26/","2026-07-19","professional-keyword-framework-audit"
+"14","how to check s9 wallet balance safely","question","P1","faq/article","/blog/weekly-check/","2026-07-19","professional-keyword-framework-audit"
+"15","what to do if easypaisa withdrawal delayed","question","P1","faq/article","/blog/easypaisa-vs-jazzcash-withdrawal/","2026-07-19","professional-keyword-framework-audit"
+"16","does s9 support jazzcash in Pakistan","question","P1","faq/article","/blog/s9-jazzcash-withdrawal-support-ticket-2026-06-30/","2026-07-19","professional-keyword-framework-audit"
+"17","how to prepare withdrawal support screenshot","question","P1","faq/article","/blog/s9-withdrawal-proof-screenshot-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"18","s9 easypaisa vs jazzcash","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"19","s9 wallet issue vs login issue","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"20","s9 withdrawal page vs support page","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"21","s9 withdrawal Pakistan Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"22","s9 withdrawal Pakistan PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"23","s9 withdrawal Pakistan Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"24","s9 withdrawal Pakistan mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"25","s9 withdrawal Pakistan H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"26","s9 withdrawal Pakistan 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"27","s9 withdrawal Pakistan guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"28","s9 withdrawal Pakistan checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"29","s9 withdrawal Pakistan fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"30","s9 withdrawal Pakistan not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"31","s9 withdrawal Pakistan latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"32","s9 withdrawal Pakistan support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"33","s9 wallet Pakistan Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"34","s9 wallet Pakistan PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"35","s9 wallet Pakistan Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"36","s9 wallet Pakistan mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"37","s9 wallet Pakistan H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"38","s9 wallet Pakistan 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"39","s9 wallet Pakistan guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"40","s9 wallet Pakistan checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"41","s9 wallet Pakistan fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"42","s9 wallet Pakistan not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"43","s9 wallet Pakistan latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"44","s9 wallet Pakistan support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"45","s9 easypaisa withdrawal pending Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"46","s9 easypaisa withdrawal pending PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"47","s9 easypaisa withdrawal pending Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"48","s9 easypaisa withdrawal pending mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"49","s9 easypaisa withdrawal pending H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"50","s9 easypaisa withdrawal pending 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"51","s9 easypaisa withdrawal pending guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"52","s9 easypaisa withdrawal pending checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"53","s9 easypaisa withdrawal pending fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"54","s9 easypaisa withdrawal pending not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"55","s9 easypaisa withdrawal pending latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"56","s9 easypaisa withdrawal pending support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"57","s9 withdrawal proof screenshot Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"58","s9 withdrawal proof screenshot PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"59","s9 withdrawal proof screenshot Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"60","s9 withdrawal proof screenshot mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"61","s9 withdrawal proof screenshot H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"62","s9 withdrawal proof screenshot 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"63","s9 withdrawal proof screenshot guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"64","s9 withdrawal proof screenshot checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"65","s9 withdrawal proof screenshot fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"66","s9 withdrawal proof screenshot not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"67","s9 withdrawal proof screenshot latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"68","s9 withdrawal proof screenshot support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"69","s9 jazzcash deposit Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"70","s9 jazzcash deposit PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"71","s9 jazzcash deposit Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"72","s9 jazzcash deposit mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"73","s9 jazzcash deposit H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"74","s9 jazzcash deposit 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"75","s9 jazzcash deposit guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"76","s9 jazzcash deposit checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"77","s9 jazzcash deposit fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"78","s9 jazzcash deposit not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"79","s9 jazzcash deposit latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"80","s9 jazzcash deposit support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
